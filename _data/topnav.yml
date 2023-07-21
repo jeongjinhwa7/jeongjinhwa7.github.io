@@ -8,7 +8,7 @@ topnav:
     - title: News
       url: /news
     - title: AI
-      external_url: https://www.google.com
+      url:/ai
 
 #Topnav dropdowns
 topnav_dropdowns:
