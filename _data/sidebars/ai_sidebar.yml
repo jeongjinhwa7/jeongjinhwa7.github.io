@@ -266,7 +266,7 @@ entries:
       url: /sample_ ipynb.html
       output: web, pdf
 
-     - title: Auto Capture(cs script)
+    - title: Auto Capture(cs script)
       url: /autocapture.cs.html
       output: web, pdf
 
