@@ -259,11 +259,11 @@ entries:
     folderitems:
    
     - title: Deep Learning
-      url: /mashine_ learning.html
+      url: /machine_learning.html
       output: web, pdf
     
     - title: Jupyter notebook
-      url: /sample_ ipynb.html
+      url: /sample_ipynb.html
       output: web, pdf
 
     - title: Auto Capture(cs script)
