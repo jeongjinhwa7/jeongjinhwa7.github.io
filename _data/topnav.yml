@@ -24,6 +24,8 @@ topnav_dropdowns:
           external_url: http://stackoverflow.com/questions/tagged/jekyll
         - title: Jekyll on my blog
           external_url: http://idratherbewriting.com/category-jekyll/
+        - title: Jekyll on my reference
+          external_url: https://en.dict.naver.com/#/search?query=%EC%B0%B8%EA%B3%A0&range=all
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
