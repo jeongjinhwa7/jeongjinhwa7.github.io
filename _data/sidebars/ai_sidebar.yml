@@ -253,6 +253,23 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
+  - title: Mashine Learning
+    output: web, pdf
+
+    folderitems:
+   
+    - title: Deep Learning
+      url: /mashine_ learning.html
+      output: web, pdf
+    
+    - title: Jupyter notebook
+      url: /sample_ ipynb.html
+      output: web, pdf
+
+     - title: Auto Capture(cs script)
+      url: /autocapture.cs.html
+      output: web, pdf
+
   - title: Tag archives
     output: web
     folderitems:
